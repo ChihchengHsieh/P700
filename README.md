@@ -5,7 +5,7 @@
 
 
 
-The results (x-axis:loss, y-axis:number of epochs):
+The results (x-axis:number of epochs, y-axis:loss):
 
 Without L2
 ![](https://github.com/mike820808/P700/blob/master/Results/WithoutL2.png)
