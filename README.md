@@ -16,6 +16,6 @@ With L2
 ![](https://github.com/mike820808/P700/blob/master/Results/WithL2.png)
 
 
-WithoutL2, With 2FullyConnectedLayer after the LSTM
+WithoutL2, With 2FullyConnectedLayers(reduce the dimension to 2D) after the LSTM
 
 ![](https://github.com/mike820808/P700/blob/master/Results/Loss_graphWithFC2WithoutL2.png)
