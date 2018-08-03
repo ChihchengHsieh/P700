@@ -21,7 +21,7 @@ We can see the model can only classify the data it has seen. And the accuracy on
 ![](https://github.com/mike820808/P700/blob/master/Keras_Results/FullDataOnlyLSTM1lr0.0001.png)
 
 
-### However, this problem can be solved by using a simple algorithm to create a graph.
+### However, this problem can be solved by using a simple algorithm (Graph_Alg) to create a graph.
 #### Only one batch of training data can boost the accuracy on the validation set to 100%
 
 ![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Graph_algo_hist.png?raw=true)
