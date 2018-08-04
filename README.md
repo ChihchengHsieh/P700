@@ -22,7 +22,7 @@ We can see the model can only classify the data it has seen. And the accuracy on
 
 # Result from tf.Keras
 
-![](https://github.com/mike820808/P700/blob/master/Keras_Results/FullDataOnlyLSTM1lr0.0001.png)
+![](https://github.com/ChihchengHsieh/P700/blob/master/Old%20Models/Keras_Results/FullDataOnlyLSTM1lr0.0001.png?raw=true)
 
 
 ### However, this problem can be solved by using a simple algorithm (Graph_Alg) to create a graph.
