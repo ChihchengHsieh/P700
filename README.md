@@ -1,8 +1,11 @@
 # Siamese-Network for analysing graphs
 
-### Grid Graph (a kind of Planar graph is used in this case)
+## Grid Graph (a kind of Planar graph is used in this case)
 #### Start from 1 to 20 (20 nodes)
 ![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Graph.png?raw=true) 
+
+## Data Generation
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/DataGeneration.png?raw=true)
 
 ## Network Architecture
 ![](https://github.com/ChihchengHsieh/P700/blob/master/Img/P700St.png?raw=true)
