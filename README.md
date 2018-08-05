@@ -10,6 +10,11 @@
 ## Network Architecture
 ![](https://github.com/ChihchengHsieh/P700/blob/master/Img/P700St.png?raw=true)
 
+## NELU LSTM
+#### NELU has been implemented.
+[[NALU Paper](https://arxiv.org/pdf/1808.00508.pdf)]
+![](https://github.com/ChihchengHsieh/NALU-and-Applying-on-LSTM/blob/master/NALU.png?raw=true)
+
 # Result from Pytorch
 The learning rate decay has been implemented in this model.
 We can see the model can only classify the data it has seen. And the accuracy on the validation set is not increasing.
