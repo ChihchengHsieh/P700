@@ -64,5 +64,5 @@ We can see the model can only classify the data it has seen. And the accuracy on
 
 ![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Train_Hist20Colour_Epoch_0reg.png?raw=true)
 
-
+### Still have a serious overfitting problem.
 
