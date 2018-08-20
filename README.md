@@ -42,6 +42,10 @@ We can see the model can only classify the data it has seen. And the accuracy on
 
 ![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Graph_Colour.png?raw=true)
 
+## Generating Positive and Negative pairs
+
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/ColourGraphExp.png?raw=true)
+
 # Result from Pytorch
 
 ## LSTN-NALU
