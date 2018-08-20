@@ -36,3 +36,33 @@ We can see the model can only classify the data it has seen. And the accuracy on
 ![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Graph_algo_hist.png?raw=true)
 
 
+# WithColour
+
+## Grid graph with Colours
+
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Graph_Colour.png?raw=true)
+
+# Result from Pytorch
+
+## LSTN-NALU
+
+#### Training 
+
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Train_Hist20Colour_Training_0reg.png?raw=true)
+
+#### & Validation (Epochs)
+
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Train_Hist20Colour_Epoch_0reg.png?raw=true)
+
+## Original LSTM
+
+#### Training 
+
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Train_Hist20Colour_Training_0reg.png?raw=true)
+
+#### & Validation (Epochs)
+
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Train_Hist20Colour_Epoch_0reg.png?raw=true)
+
+
+
