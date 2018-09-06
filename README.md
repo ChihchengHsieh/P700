@@ -80,5 +80,5 @@ We can see the model can only classify the data it has seen. And the accuracy on
 
 ![](https://github.com/ChihchengHsieh/P700/blob/master/Img/CycleDataTrainingHist2.png?raw=true)
 
-![](https://github.com/ChihchengHsieh/P700/blob/master/Img/CycleDataTrainingHist.png?raw=true)
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/CycleDataTraningHist.png?raw=true)
 
