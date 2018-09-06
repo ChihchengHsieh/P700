@@ -73,8 +73,8 @@ We can see the model can only classify the data it has seen. And the accuracy on
 
 # Without Colour but no restriction on the cycle path
 
+<img src="https://github.com/ChihchengHsieh/P700/blob/master/Img/IMG_4470.PNG?raw=true" width="200" height="300">
 
-![](https://github.com/ChihchengHsieh/P700/blob/master/Img/IMG_4470.PNG?raw=true)
 
 ### Training result
 
