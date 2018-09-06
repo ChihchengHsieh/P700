@@ -70,3 +70,15 @@ We can see the model can only classify the data it has seen. And the accuracy on
 
 ### Still have a serious overfitting problem.
 
+
+# Without Colour but no restriction on the cycle path
+
+
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/IMG_4470.PNG?raw=true)
+
+### Training result
+
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/CycleDataTrainingHist2.png?raw=true)
+
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/CycleDataTrainingHist.png?raw=true)
+
