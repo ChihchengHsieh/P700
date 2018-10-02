@@ -82,3 +82,18 @@ We can see the model can only classify the data it has seen. And the accuracy on
 
 ![](https://github.com/ChihchengHsieh/P700/blob/master/Img/CycleDataTraningHist.png?raw=true)
 
+
+# Simple Path to generate the data 
+
+<img src="https://github.com/ChihchengHsieh/P700/blob/master/Img/SimplePathGeneration.jpg?raw=true" width="200" height="300">
+
+
+## With 2 FC layers 
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Train_HistLSTMColourSimplePath_Epoch_0reg.png?raw=true)
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Train_HistLSTMColourSimplePath_Training_0reg.png?raw=true)
+
+## Without FC layer
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Train_HistWithoutFC_LSTMColourSimplePath_Epoch_0reg%20(1).png?raw=true)
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Train_HistWithoutFC_LSTMColourSimplePath_Training_0reg%20(1).png?raw=true)
+
+
