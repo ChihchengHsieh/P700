@@ -97,3 +97,14 @@ We can see the model can only classify the data it has seen. And the accuracy on
 ![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Train_HistWithoutFC_LSTMColourSimplePath_Training_0reg%20(1).png?raw=true)
 
 
+# Consider the last node of a path
+
+
+### Training_result
+
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Train_Val_HistSimplest_LSTM_Training_0reg.png?raw=true)
+
+![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Train_HistSimplest_LSTM_Training_0reg%20(1).png?raw=true)
+
+
+
