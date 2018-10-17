@@ -107,4 +107,36 @@ We can see the model can only classify the data it has seen. And the accuracy on
 ![](https://github.com/ChihchengHsieh/P700/blob/master/Img/Train_HistSimplest_LSTM_Training_0reg%20(1).png?raw=true)
 
 
+# After setting a root
+
+## For PredictingNet
+![](https://github.com/ChihchengHsieh/P700/blob/master/Exp_results/PredictingGraph.png?raw=true)
+
+
+### 3 Colours
+![](https://github.com/ChihchengHsieh/P700/blob/master/Exp_results/Predicting_3coulours.png?raw=true)
+
+### 10 Colours (SimplestColorGraph)
+![](https://github.com/ChihchengHsieh/P700/blob/master/Exp_results/Predicting_Simplest.png?raw=true)
+
+### Idx (20 Colours)
+![](https://github.com/ChihchengHsieh/P700/blob/master/Exp_results/Predicting_Idx.png?raw=true)
+
+
+### For Siamese Network
+![](https://github.com/ChihchengHsieh/P700/blob/master/Exp_results/SiameseGraph.png?raw=true)
+
+### 3 Colours
+![](https://github.com/ChihchengHsieh/P700/blob/master/Exp_results/Siamese_3colours.png?raw=true)
+
+### 10 Colours (SimplestColorGraph)
+![](https://github.com/ChihchengHsieh/P700/blob/master/Exp_results/Siamese_Simplest.png?raw=true)
+
+### Idx (20 Colours)
+![](https://github.com/ChihchengHsieh/P700/blob/master/Exp_results/Siamese_Idx.png?raw=true)
+
+Both siamese network and PredictingNet have the problem of overfitting.
+
+
+
 
